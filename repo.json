@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "name": "Sexeo intenso",
+  "author": "Yo",
+  "description": "Soniconil intenso sexeo wujuu",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/maincra/game.json"
+    }
+  ]
+}
